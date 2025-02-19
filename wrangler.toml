@@ -1,3 +1,5 @@
+name = "sink"
+
 upload_source_maps = true
 
 [dev]
